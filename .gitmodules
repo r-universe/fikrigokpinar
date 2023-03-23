@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "homnormal"]
+	path = homnormal
+	url = https://github.com/cran/homnormal
+	shallow = true
+	registered = true
+[submodule "RSStest"]
+	path = RSStest
+	url = https://github.com/cran/RSStest
+	shallow = true
+	registered = true

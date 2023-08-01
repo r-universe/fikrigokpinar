@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "homnormal"]
-	path = homnormal
-	url = https://github.com/cran/homnormal
 [submodule "RSStest"]
 	path = RSStest
 	url = https://github.com/cran/RSStest
+[submodule "homnormal"]
+	path = homnormal
+	url = https://github.com/cran/homnormal
